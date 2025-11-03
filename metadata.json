@@ -1,0 +1,5 @@
+{
+  "name": "CSV to Excel Converter",
+  "description": "A web application to convert CSV data into an Excel spreadsheet. Users can paste CSV data directly or upload a CSV file, preview the data in a table, and then download it as an .xlsx file.",
+  "requestFramePermissions": []
+}
